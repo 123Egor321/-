@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    background-color:black;
+   
+
+}
+
+
+div{
+    height: 100px; 
+    background-size: cover;
+    border: 2px solid red;
+    background: url('https://catherineasquithgallery.com/uploads/posts/2021-03/1614626895_39-p-fon-kosmosa-dlya-fotoshopa-65.jpg');
+
+}
+title{
+    text-align: right;
+    font-size: 36px;
+    color: aliceblue;
+}
+.asd{
+    background-color: black;
+    margin-top: 10px;
+    margin-bottom: 40px;
+}
+.circle{
+    width: 30px;
+    height: 30px;
+    background-color: aqua;
+    border-radius: 5px;
+}
